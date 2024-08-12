@@ -1,6 +1,12 @@
-## Hi there 👋
+- 👋 Hi there, nice to meet you!  
+- 🌍 My research interests include spatio-temporal data mining and intelligent transportation systems.
+- 📫 Feel free to reach out if you're interested in discussing research ideas or collaboration opportunities!
+
+
 
 <!--
+## Hi there 👋
+
 **Rinheart/Rinheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
