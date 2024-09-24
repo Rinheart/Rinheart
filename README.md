@@ -1,5 +1,5 @@
 - 👋 Hi there, nice to meet you!  
-- 🌍 My research interests include spatio-temporal data mining and intelligent transportation systems.
+- 🌍 My research interests include Large Language Model, Spatio-Temporal Data Mining and Intelligent Transportation Systems.
 - 📫 Feel free to reach out if you're interested in discussing research ideas or collaboration opportunities!
 
 
